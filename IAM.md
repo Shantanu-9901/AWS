@@ -1,5 +1,6 @@
-# AWS IAM (Identity and Access Management)
-## Objective: To securely manage access to AWS services and resources. You'll create users, groups, roles and define access policies.
+# AWS IAM (Identity and Access Management)       <img src="https://github.com/user-attachments/assets/9cb1841f-47a7-4511-b47f-d4ef35eff624" alt="IAM Logo" width="40" />
+## Objective: To securely manage access to AWS services and resources. You'll create users, groups, roles and define access policies. 
+
 
 ## Create IAM Users
 1. Go to IAM Dashboard:
