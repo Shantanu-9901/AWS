@@ -1,4 +1,4 @@
-# AWS EC2 Practical Handbook: Detailed Step-by-Step Guide
+# AWS EC2 Practical Handbook: Detailed Step-by-Step Guide   <img src="https://github.com/user-attachments/assets/f16f083a-b300-4fa0-9a4b-21d4a471d1c6" alt="IAM Logo" width="40" />
 
 
 
